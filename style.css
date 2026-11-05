@@ -202,22 +202,6 @@ body {
     margin-bottom: 40px;
 }
 
-.social-btn {
-    text-decoration: none;
-    color: #ffffff;
-    padding: 12px 30px;
-    font-size: 0.85rem;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-    transition: transform 0.2s ease, filter 0.2s ease;
-}
-
-.social-btn:hover {
-    transform: translateY(-3px);
-    filter: brightness(1.1);
-}
-
 .facebook { background-color: #3b5998; }
 .instagram { background-color: #c13584; }
 .whatsapp { background-color: #00fd5d; }
